@@ -1,0 +1,15 @@
+C:\Proyectos\Helpmate\Helpmate\bin\Debug\netcoreapp3.1\Helpmate.exe
+C:\Proyectos\Helpmate\Helpmate\bin\Debug\netcoreapp3.1\Helpmate.deps.json
+C:\Proyectos\Helpmate\Helpmate\bin\Debug\netcoreapp3.1\Helpmate.runtimeconfig.json
+C:\Proyectos\Helpmate\Helpmate\bin\Debug\netcoreapp3.1\Helpmate.runtimeconfig.dev.json
+C:\Proyectos\Helpmate\Helpmate\bin\Debug\netcoreapp3.1\Helpmate.dll
+C:\Proyectos\Helpmate\Helpmate\bin\Debug\netcoreapp3.1\Helpmate.pdb
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.csprojAssemblyReference.cache
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.csproj.GenerateResource.cache
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.AssemblyInfoInputs.cache
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.AssemblyInfo.cs
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.csproj.CoreCompileInputs.cache
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.dll
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.pdb
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.genruntimeconfig.cache
+C:\Proyectos\Helpmate\Helpmate\obj\Debug\netcoreapp3.1\Helpmate.MainForm.resources
